@@ -30,26 +30,25 @@ JDK(Java Development Kit)
 
 Pasi ti keni shkarkuar file-t që ndodhen në këtë repository, ndiqni këta hapa për ta ekzekutuar programin.
 
-
 ```
 Hapni të tre file-t me IDE-n tuaj, në shembullin tonë jGrasp.
-
 ```
 
+```
 Pasi ti keni hapur shtypni komandat ctrl + r tek file-t MortgageView dhe Mortgage. Shtypni OK tek dialogu që shfaqet.
+```
 
 ```
 Më pas tek file MortgageController shtypni komanden ctrl + r përseri ku do hapet programi dhe do keni mundësin 
 për të punuar.
 ```
 
-
 ## Ndërtuar Me
 
 * [Java](https://docs.oracle.com/en/java/javase/13/docs/api/index.html) - Gjuha programuese e përdorur
 
 
-## Autoret
+## Autorët
 
 * **Ragip Gjinovci** - *Dizajnim arkitekture, kodimi* - [ragipgjinovci](https://github.com/ragipgjinovci)
 * **Fatbardh Emini** - *Dizajnim arkitekture, testimi* - [FatbardhEmini](https://github.com/FatbardhEmini)
