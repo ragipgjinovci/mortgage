@@ -25,22 +25,17 @@ JRE(Java Runtime Environment)
 ```
 JDK(Java Development Kit)
 ```
-### Përdorimi
+### Instalimi
 
 Pasi ti keni shkarkuar file-t që ndodhen në këtë repository, ndiqni këta hapa për ta ekzekutuar programin.
 
 ```
-Hapni të tre file-t me IDE-n tuaj, në shembullin tonë jGrasp.
+Hapni file-n setup.exe dhe vazhdoni me instalimin e programit.
+Instalimi është një proces i thjeshtë dhe procedurë standarde instalimi.
 ```
 
 ```
-Pasi ti keni hapur shtypni komandat ctrl + r tek file-t MortgageView dhe Mortgage.
-Shtypni OK tek dialogu që shfaqet.
-```
-
-```
-Më pas tek file MortgageController shtypni komanden ctrl + r përseri ku do hapet programi dhe do keni mundësin 
-për të punuar.
+Pasi të jetë instaluar programi, ju thjesht mund ta hapni atë duke klikuar mbi ikonen në vendin ku e keni ruajtur.
 ```
 
 ## Ndërtuar Me
