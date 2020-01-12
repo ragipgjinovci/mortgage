@@ -4,8 +4,7 @@ Detyra 6.11.4 në librin "Programming Principles in Java: Architectures and Inte
 
 Ky aplikacion kërkon nga përdoruesi të jap vlerat fillestare: Starting Principal, Interest Rate, Loan Duration(years), dhe pastaj
 llogarit pagesen mujore(monthly payment) dhe e kthen atë si rezultat. Më pas përdoruesi ka mundësin të shtyp një buton MAKE MONTHLY PAYMENT
-derisa huaja të paguhet në tërsi.
-Gjithashtu ekziston mundësia që të vendosen vlera të reja për kalkulim më anën e butonit RESET.
+derisa huaja të paguhet në tërsi. Gjithashtu ekziston mundësia që të vendosen vlera të reja për kalkulim më anën e butonit RESET.
 
 ## Fillimi
 
@@ -35,7 +34,8 @@ Hapni të tre file-t me IDE-n tuaj, në shembullin tonë jGrasp.
 ```
 
 ```
-Pasi ti keni hapur shtypni komandat ctrl + r tek file-t MortgageView dhe Mortgage. Shtypni OK tek dialogu që shfaqet.
+Pasi ti keni hapur shtypni komandat ctrl + r tek file-t MortgageView dhe Mortgage.
+Shtypni OK tek dialogu që shfaqet.
 ```
 
 ```
