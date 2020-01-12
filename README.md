@@ -1,22 +1,22 @@
 # Mortgage Calculator
 
-Detyra 6.11.4 ne librin "Programming Principles in Java: Architectures and Interfaces" nga David Schmidt.
+Detyra 6.11.4 në librin "Programming Principles in Java: Architectures and Interfaces" nga David Schmidt.
 
-Ky aplikacion kerkon nga perdoruesi te jap vlerat fillestare: Starting Principal, Interest Rate, Loan Duration(years), dhe pastaj
-llogarit pagesen mujore(monthly payment) dhe e kthen ate si rezultat. Me pas perdoruesi ka mundesin te shtyp nje buton MAKE MONTHLY PAYMENT
-derisa huaja te paguhet e tera.
-Gjithashtu ekziston mundsia qe te vendosen vlera te reja per kalkulim me anen e butonit RESET.
+Ky aplikacion kërkon nga përdoruesi të jap vlerat fillestare: Starting Principal, Interest Rate, Loan Duration(years), dhe pastaj
+llogarit pagesen mujore(monthly payment) dhe e kthen atë si rezultat. Më pas përdoruesi ka mundësin të shtyp një buton MAKE MONTHLY PAYMENT
+derisa huaja të paguhet në tërsi.
+Gjithashtu ekziston mundësia që të vendosen vlera të reja për kalkulim më anën e butonit RESET.
 
 ## Fillimi
 
-Me anen e ketyre instruksioneve ju do keni qasje nga makina juaj ne kete program.
+Duke ndjekur këto instruksione ju do keni qasje nga makina juaj në këtë program.
 
-### Kerkesat
+### Kërkesat
 
-Gjerat qe duhet ti posedoni perpara se te filloni me programin.
+Mjetet që duhet ti posedoni para se të filloni me programin.
 
 ```
-Nje IDE(Integrated Development Environment) per ta ekzekutuar kodin. Shembull: jGrasp.
+Një IDE(Integrated Development Environment) për ta ekzekutuar kodin. Shembull: jGrasp.
 ```
 
 ```
@@ -26,32 +26,31 @@ JRE(Java Runtime Environment)
 ```
 JDK(Java Development Kit)
 ```
-### Instalimi
+### Përdorimi
 
-A step by step series of examples that tell you how to get a development env running
+Pasi ti keni shkarkuar file-t që ndodhen në këtë repository, ndiqni këta hapa për ta ekzekutuar programin.
 
-Say what the step will be
 
 ```
-Give the example
-```
-
-And repeat
+Hapni të tre file-t me IDE-n tuaj, në shembullin tonë jGrasp.
 
 ```
-until finished
+
+Pasi ti keni hapur shtypni komandat ctrl + r tek file-t MortgageView dhe Mortgage. Shtypni OK tek dialogu që shfaqet.
+
+```
+Më pas tek file MortgageController shtypni komanden ctrl + r përseri ku do hapet programi dhe do keni mundësin 
+për të punuar.
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
+## Ndërtuar Me
 
-## Ndertuar me
-
-* [Java](https://docs.oracle.com/en/java/javase/13/docs/api/index.html) - Gjuha programuese e perdorur
+* [Java](https://docs.oracle.com/en/java/javase/13/docs/api/index.html) - Gjuha programuese e përdorur
 
 
 ## Autoret
 
-* **Ragip Gjinovci** - *Initial work* - [ragipgjinovci](https://github.com/ragipgjinovci)
-* **Fatbardh Emini** - *Initial work* - [FatbardhEmini](https://github.com/FatbardhEmini)
+* **Ragip Gjinovci** - *Dizajnim arkitekture, kodimi* - [ragipgjinovci](https://github.com/ragipgjinovci)
+* **Fatbardh Emini** - *Dizajnim arkitekture, testimi* - [FatbardhEmini](https://github.com/FatbardhEmini)
 
