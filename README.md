@@ -53,5 +53,5 @@ End with an example of getting some data out of the system or using it for a lit
 ## Autoret
 
 * **Ragip Gjinovci** - *Initial work* - [ragipgjinovci](https://github.com/ragipgjinovci)
-* **Fatbardh Emini** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Fatbardh Emini** - *Initial work* - [FatbardhEmini](https://github.com/FatbardhEmini)
 
